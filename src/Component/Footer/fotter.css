@@ -1,0 +1,20 @@
+#foot{
+    background-color:#002365;
+    color:white;
+}
+#foot ul li {
+    list-style-type: none;
+    padding-top: 10px;
+    cursor: pointer;
+}
+#foot_icon a{
+    text-decoration: none;
+    margin-right: 100px;
+}
+.foot_sec1{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    border-top:1px solid white;
+    padding-top: 10px;
+}
